@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm a dedicated and seasoned software developer wi
 (Here, you can list your recent projects or contributions, preferably with links)
 
 ### 🤝 Let's Connect
-- LinkedIn: linkedin.com/in/syed-alvi
+- LinkedIn: [linkedin.com/in/syed-alvi](https://www.linkedin.com/in/syed-alvi/)
 
 ---
 
